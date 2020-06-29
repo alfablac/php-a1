@@ -1,4 +1,4 @@
-##Como usar
+## Como usar
 
 Com o php e composer no PATH, utilize:
 
@@ -12,7 +12,7 @@ Irá instalar as dependências necessárias do projeto. Depois rodar o app com:
 php app.php wikipedia [<termodebusca>]
 ```
 
-##Exemplo
+## Exemplo
 
 ```bash
 php app.php wikipedia Symfony
